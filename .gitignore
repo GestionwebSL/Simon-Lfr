@@ -57,6 +57,10 @@ typings/
 # dotenv environment variables file
 .env*
 
+# dotenv environment variables file
+.env
+.env.test
+
 # Gatsby build folder
 public
 
