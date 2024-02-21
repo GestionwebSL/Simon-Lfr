@@ -1,0 +1,7 @@
+[template]
+  incoming-hooks = ["Contentful"]
+
+[template.environment]
+  CONTENTFUL_SPACE_ID = "1owphk2lx0l5"
+  CONTENTFUL_ACCESS_TOKEN = "wCRpMWjcqTjXXXJDNyhMSV8_LluWopdA_5e2p4sdbiE"
+  CONTENTFUL_PREVIEW_ACCESS_TOKEN = "WNawd7WoSnv9-53ISSRe7b_AWkJ7ZyjzwlAfwXMHGuw"
