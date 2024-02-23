@@ -24,6 +24,7 @@
     "reading-time": "^2.0.0-1"
   },
   "devDependencies": {
+    "@stackbit/types": "^0.11.4",
     "contentful-import": "^8.3.2",
     "gatsby-provision-contentful": "^0.0.5",
     "netlify-cli": "^10.0.0"
